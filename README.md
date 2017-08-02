@@ -6,7 +6,7 @@ The database for this will not be a relational database as the MySql or MsSql da
 
 ## Literature
 
-* [The MongoDB 3.4 Manual](https://docs.mongodb.com/manual/) (will be more specified what you should read at a later point).
+* [The MongoDB 3.4 Manual](https://docs.mongodb.com/manual/) _(will be more specified what you should read at a later point)_.
 
 
 ## Tools:
