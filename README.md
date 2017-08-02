@@ -12,6 +12,6 @@ The database for this will not be a relational database as the MySql or MsSql da
 ## Tools:
 
 * [MongoDB](https://www.mongodb.com/) _(Create a free account)_
-* [MongoDB Compass (GUI)](https://www.mongodb.com/download-center?filter=enterprise#compass)
+* [MongoDB Compass](https://www.mongodb.com/download-center?filter=enterprise#compass)(MongoDB - database browser)
 
 
