@@ -1,5 +1,5 @@
 # 07 Database
-<img src="/img/mongodb--1-.png"  width="100%">    
+<img src="/img/mongodb.png"  width="100%">    
 
 Today we will add database functionallity to our application.    
 The database for this will not be a relational database as the MySql or MsSql databases, but a NoSql database called MongoDb.
