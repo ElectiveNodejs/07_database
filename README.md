@@ -1,5 +1,5 @@
 # 07 Database
-Agenda for day 7 adding a database    
+<img src="/img/mongodb--1-.png" >    
 
 Today we will add database functionallity to our application.    
 The database for this will not be a relational database as the MySql or MsSql databases, but a NoSql database called MongoDb.
