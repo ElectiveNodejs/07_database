@@ -10,6 +10,7 @@ First we are going to aquire a MongoDB (a database) to work on.
 * [MongoDB](https://www.mongodb.com/cloud/atlas) _(Create a free account)_
   * Create a new project
   * Build a new Cluster
+    * remember to choose the free option!
 
 
 ## Query the database from a node.js application
