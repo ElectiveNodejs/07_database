@@ -7,15 +7,7 @@ The database for this will not be a relational database as the MySql or MsSql da
 ## Agenda:
 ## Create a free account at mongodb.com
 First we are going to aquire a MongoDB (a database) to work on.
-* [MongoDB](https://www.mongodb.com/cloud/atlas) _(Create a free account)_
-  * Create a new project
-  * Build a new Cluster
-    * remember to choose the free option!
-* Download [MongoDB Compass](https://www.mongodb.com/download-center?filter=enterprise#compass)
- * in your new cluster click on connect 
-  * in the IP Whitelist click "allow access from anywhere"
-  * Then choose the Compass option.
-
+* [MongoDB Atlas Docs](https://docs.atlas.mongodb.com/)
 
 ## Query the database from a node.js application
 
