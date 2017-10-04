@@ -30,7 +30,7 @@ Primarely the abillity to have a database schema.
 
 ## Tools:
 
-* [MongoDB](https://www.mongodb.com/) _(Create a free account)_
+* [MongoDB](https://www.mongodb.com/cloud/atlas) _(Create a free account)_
 * [MongoDB Compass](https://www.mongodb.com/download-center?filter=enterprise#compass)(MongoDB - database browser)
 
 
