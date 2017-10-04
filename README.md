@@ -5,10 +5,21 @@ Today we will add database functionallity to our application.
 The database for this will not be a relational database as the MySql or MsSql databases, but a NoSql database called MongoDb.
 
 ## Agenda:
+## Create a free account at mongodb.com
 First we are going to have a MongoDB (a database) to work on.
 * [MongoDB](https://www.mongodb.com/) _(Create a free account)_
 
+
+## Query the database from a node.js application
+
+### MongoDB Native dirver
 https://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html
+
+
+### Mongose
+With the module Mongoose we can get some functionallity that we do not have when using the native driver.
+Primarely the abillity to have a database schema.
+
 
 
 ## Literature
