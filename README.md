@@ -7,6 +7,7 @@ The database for this will not be a relational database as the MySql or MsSql da
 ## Agenda:
 ## Create a free account at mongodb.com
 First we are going to aquire a MongoDB (a database) to work on.
+* [Getting Started](https://docs.mongodb.com/manual/tutorial/getting-started/) or
 * [MongoDB Atlas Docs](https://docs.atlas.mongodb.com/)
 
 ## Query the database from a node.js application
