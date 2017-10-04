@@ -11,6 +11,10 @@ First we are going to aquire a MongoDB (a database) to work on.
   * Create a new project
   * Build a new Cluster
     * remember to choose the free option!
+* Download [MongoDB Compass](https://www.mongodb.com/download-center?filter=enterprise#compass)
+ * in your new cluster click on connect 
+  * in the IP Whitelist click "allow access from anywhere"
+  * Then choose the Compass option.
 
 
 ## Query the database from a node.js application
