@@ -23,7 +23,7 @@ https://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html
 ### Mongose
 With the module Mongoose we can get some functionallity that we do not have when using the native driver.
 Primarely the abillity to have a database schema.
-
+* [Mongoose](http://mongoosejs.com/index.html)
 
 
 ## Literature
