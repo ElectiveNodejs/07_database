@@ -10,6 +10,10 @@ First we are going to aquire a MongoDB (a database) to work on.
 * [Getting Started](https://docs.mongodb.com/manual/tutorial/getting-started/) or
 * [MongoDB Atlas Docs](https://docs.atlas.mongodb.com/)
 
+### Info about MongoDB
+* [Documents](https://docs.mongodb.com/manual/core/document/)
+* [MongoDB CRUD Operations](https://docs.mongodb.com/manual/crud/)
+
 ## Query the database from a node.js application
 
 ### MongoDB Native dirver
